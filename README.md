@@ -4,4 +4,4 @@
 ![full_project_with_tableau](Revenue_for_year.jpg)
 ![full_project_with_tableau](Average_price_per_bedroom.jpg)
 ![full_project_with_tableau](Distinct_count_of_bedrooms.jpg)
-![full_project_with_tableau](full_project.png)
+![full_project_with_tableau](full_project.jpg)
